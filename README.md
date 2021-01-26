@@ -14,5 +14,20 @@ In the environment week, we developed a project called Ecoleta. A waste collecti
 
 <hr />
 
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- ✔️ CSS
+
+- ✔️ HTML
+
+- ✔️ JavaScript
+
+- ✔️ Node.js
+
+- ✔️ SQLite
+
 Made with by Kelven Luiz </br>
 [LinkedIn](https://www.linkedin.com/in/kelvenluiz/) | [Email](mailto:kelvenluiz@usp.br)
