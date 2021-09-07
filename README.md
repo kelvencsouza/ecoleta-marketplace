@@ -12,8 +12,8 @@ This project was developed with the following technologies:
 
 - ✔️ HTML
 
-- ✔️ JavaScript
+- ✔️ SQLite
 
 - ✔️ Node.js
 
-- ✔️ SQLite
+- ✔️ JavaScript

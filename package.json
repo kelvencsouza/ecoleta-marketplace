@@ -1,14 +1,27 @@
 {
-  "name": "nlw",
+  "name": "ecoleta-marketplace",
+  "version": "1.0.0",
+  "description": "<a><img src=\"https://i.ibb.co/vLF0FF4/ecoleta.png\" alt=\"landing page\"></a>",
+  "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvenluiz/ecoleta-marketplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvenluiz/ecoleta-marketplace/issues"
+  },
+  "homepage": "https://github.com/kelvenluiz/ecoleta-marketplace#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nunjucks": "^3.2.1",
-    "sqlite3": "^4.2.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.12",
+    "nunjucks": "^3.2.3",
+    "sqlite3": "^5.0.2"
   }
 }
