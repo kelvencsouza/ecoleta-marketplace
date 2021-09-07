@@ -17,6 +17,3 @@ This project was developed with the following technologies:
 - ✔️ Node.js
 
 - ✔️ SQLite
-
-Made with by Kelven Luiz </br>
-[LinkedIn](https://www.linkedin.com/in/kelvenluiz/) | [Email](mailto:kelvenluiz@usp.br)
