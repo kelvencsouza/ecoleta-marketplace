@@ -18,6 +18,6 @@ This project was developed with the following technologies:
 
 - ✔️ SQLite
 
-- ✔️ Node.js
+- ✔️ Nunjucks
 
 - ✔️ JavaScript
