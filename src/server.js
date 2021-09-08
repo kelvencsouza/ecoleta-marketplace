@@ -20,7 +20,7 @@ server.get("/", (req, res) => {
     return res.render("index.njk", {title: "Um título"})
 })
 
-server.get("/criar-ponto", (req, res) => {
+server.get("/create-point", (req, res) => {
 
 
    
