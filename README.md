@@ -6,7 +6,7 @@ In the environment week, we developed a project called Ecoleta. A waste collecti
 
 # 🌐 Preview Online
 
-<a href="https://ecoleta-website.herokuapp.com/">Click here to view</a>
+<a href="https://ecoleta-website.herokuapp.com/" target="_blank">Click here to view</a>
 
 # 🚀 Technologies
 

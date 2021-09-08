@@ -17,7 +17,7 @@ nunjucks.configure("src/views", {
 
 
 server.get("/", (req, res) => {
-    return res.render("index.html", {title: "Um título"})
+    return res.render("index.njk", {title: "Um título"})
 })
 
 server.get("/create-point", (req, res) => {
@@ -26,7 +26,7 @@ server.get("/create-point", (req, res) => {
    
 
 
-    return res.render("create-point.html")
+    return res.render("create-point.njk")
 })
 
 
@@ -68,7 +68,7 @@ function afterInsertData(err) {
     console.log("Cadastrado com sucesso")
     console.log(this)
 
-    return res.render("create-point.html", {saved: true})
+    return res.render("create-point.njk", {saved: true})
 
 }
 
@@ -93,7 +93,7 @@ server.get("/search", (req, res) => {
 
     if(search == "") {
 
-        return res.render("search-results.html", { total: 0})
+        return res.render("search-results.njk", { total: 0})
 
     }
 
@@ -106,7 +106,7 @@ server.get("/search", (req, res) => {
     
        const total = rows.length
     
-        return res.render("search-results.html", { places: rows, total: total})
+        return res.render("search-results.njk", { places: rows, total: total})
     
     })
 
