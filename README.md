@@ -1,5 +1,5 @@
 # Ecoleta
-Na semana do meio ambiente, nós desenvolvemos um projeto chamado Ecoleta. Um <b><i>marketplace</i></b> de depósitos de resíduos, no qual as entidades podem registrar suas informações e localização.
+Um <b><i>marketplace</i></b> de depósitos de resíduos, no qual as entidades podem registrar suas informações e localização.
 <br>
 # 🌐 Veja online
 <a href="https://ecoleta-website.herokuapp.com/" target="_blank">Clique aqui para ver</a>
