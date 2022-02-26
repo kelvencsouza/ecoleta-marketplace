@@ -1,23 +1,14 @@
 # Ecoleta
+Na semana do meio ambiente, nós desenvolvemos um projeto chamado Ecoleta. Um <b><i>marketplace</i></b> de depósitos de resíduos, no qual as entidades podem registrar suas informações e localização.
 
-<a><img src="https://i.ibb.co/vLF0FF4/ecoleta.png" alt="landing page"></a>
+<br>
 
-In the environment week, we developed a project called Ecoleta. A waste collection market, in which entities can register their address and what they recycle.
+# 🌐 Veja online
+<a href="https://ecoleta-website.herokuapp.com/" target="_blank">Clique aqui para ver</a>
 
-# 🌐 Preview Online
+<br>
 
-<a href="https://ecoleta-website.herokuapp.com/" target="_blank">Click here to view</a>
+# 🚀 Tecnologias
+Este projeto foi desenvolvido com as tecnologias a seguir:
 
-# 🚀 Technologies
-
-This project was developed with the following technologies:
-
-- ✔️ CSS
-
-- ✔️ HTML
-
-- ✔️ SQLite
-
-- ✔️ Nunjucks
-
-- ✔️ JavaScript
+<img src="https://img.shields.io/badge/TECH-SQLITE-%23044a64"> <img src="https://img.shields.io/badge/TECH-NODEJS-brightgreen"> <img src="https://img.shields.io/badge/TECH-EXPRESS-%235e80f7"> <img src="https://img.shields.io/badge/TECH-NUNJUCKS-%23228B22"> <img src="https://img.shields.io/badge/TECH-JAVASCRIPT-%23fcdc00">
