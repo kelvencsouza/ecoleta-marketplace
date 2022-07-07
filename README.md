@@ -5,6 +5,11 @@ Um <b><i>marketplace</i></b> de depósitos de resíduos, no qual as entidades po
 <a href="https://ecoleta-website.herokuapp.com/" target="_blank">Clique aqui para ver</a>
 <br>
 # 🚀 Tecnologias
-Este projeto foi desenvolvido com as tecnologias a seguir:
+As principais tecnologias utilizadas nesse projeto foram:
 
-<img src="https://img.shields.io/badge/TECH-SQLITE-%23044a64"> <img src="https://img.shields.io/badge/TECH-NODEJS-brightgreen"> <img src="https://img.shields.io/badge/TECH-EXPRESS-%235e80f7"> <img src="https://img.shields.io/badge/TECH-NUNJUCKS-%23228B22"> <img src="https://img.shields.io/badge/TECH-JAVASCRIPT-%23fcdc00">
+• sqlite <br>
+• nodejs <br>
+• express <br>
+• html/css <br>
+• nunjucks <br>
+• javascript
